@@ -43,3 +43,18 @@ This is a review of the book Data Structures and Algorithms Using Python written
         - Comparing the Implementations
 
 ## 5. Linked Structures
+    5.1 Introduction
+
+    5.2 The Singly Linked List
+        - Traversing the Nodes
+        - Searching for a Node
+        - Prepending Nodes
+        - Removing Nodes
+
+    5.3 The Bag ADT Revisited
+        - List-Based Implementation Review
+        - A Linked List Implementation
+        - Comparing Implementations
+
+
+        
