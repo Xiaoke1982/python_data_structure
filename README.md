@@ -9,3 +9,5 @@ This is a review of the book Data Structures and Algorithms Using Python written
 ## 3. Sets and Maps
 
 ## 4. Searching and Sorting
+
+## 5. Linked Structures
